@@ -21,7 +21,7 @@ An interactive virtual call center application for Indian Railways using Streaml
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/winter000boy/AI-Powered-Call-Center.git
+   git clone https://github.com/Chandan7323/AI-Powered-Call-Center-Intelligence.git
    cd AI-Powered-Call-Center
 
 
